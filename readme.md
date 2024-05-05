@@ -12,7 +12,7 @@
   <p align="center">
     The Ultimate Ecommerce Web Application to buy Electronics.
     <br />
-    <a href="https://stonkify.vercel.app/"><strong>View Live Demo »</strong></a>
+    <a href="#"><strong>View Live Demo »</strong></a>
     <br />
     <br />
     
@@ -109,11 +109,11 @@ Make Sure that you have [Node.js](https://nodejs.org/en/) and Latest NPM Version
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gh0sty02/Stonkify.git
+   git clone https://github.com/concorder911220/stonkify.git
    ```
 2. CD to Repository Folder
    ```sh
-   cd Stonkify
+   cd stonkify
    ```
 3. Install NPM packages
    ```sh
@@ -197,9 +197,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Pranay Yadav [Twitter](https://twitter.com/Pranayyadav08) [Mail](mailto:pranayyadav08@gmail.com)
-
-Project Link: [https://github.com/gh0sty02/Stonkify](https://github.com/gh0sty02/Stonkify)
+Project Link: [https://github.com/concorder911220/stonkify](https://github.com/concorder911220/stonkify)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
